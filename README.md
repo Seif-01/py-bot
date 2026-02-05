@@ -152,6 +152,7 @@ It will show you how many people it followed before stopping.
 
 1. **Don't share your token** - It's like a password!
 2. **Delete tokens you're not using** - Go to https://github.com/settings/tokens
+note : Make sure to give "follower" permission
 3. **Be patient** - The bot waits 2 seconds between each follow to avoid getting banned
 4. **Use responsibly** - Don't spam or annoy people
 
